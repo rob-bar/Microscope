@@ -12,3 +12,5 @@ accounts-password
 mrt:accounts-ui-bootstrap-dropdown
 mrt:iron-router-progress
 rss
+http
+bitly
